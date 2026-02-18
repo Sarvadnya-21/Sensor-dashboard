@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+sensor_data.db
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+
+# VS Code
+.vscode/
